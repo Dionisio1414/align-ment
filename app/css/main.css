@@ -1,3 +1,9 @@
+body {
+  font-family: Montserrat; }
+
+.arabian {
+  font-family: OpenSans; }
+
 .container {
   max-width: 1440px; }
   .container header {
@@ -217,7 +223,7 @@
     padding: 0;
     margin: 0; }
     .formats ul li {
-      margin-right: 25px;
+      margin-right: 20px;
       display: inline-block; }
       .formats ul li a {
         color: #000; }
