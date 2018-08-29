@@ -292,6 +292,144 @@
     color: #423f39;
     margin: 0 auto; }
 
+.a-about {
+  direction: rtl; }
+  .a-about .title {
+    margin-left: 50px;
+    margin-top: 135px;
+    margin-bottom: 180px;
+    font-family: Montserrat;
+    font-size: 39px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.28;
+    letter-spacing: normal;
+    color: #c2baab;
+    text-transform: uppercase; }
+
+.a-embargo {
+  position: relative;
+  height: 255px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: inherit;
+  background-image: url("../img/line-arabian.png");
+  -webkit-transform: rotate(-360deg);
+          transform: rotate(-360deg); }
+  .a-embargo .custom-container .row .grey_line {
+    width: 118px;
+    height: 2px;
+    border: solid 1px #979797; }
+  .a-embargo .custom-container h2 {
+    direction: rtl; }
+  .a-embargo .card-title {
+    font-size: 18px; }
+  .a-embargo .card-text {
+    font-size: 20px;
+    color: #67645e; }
+
+.a-embargo h2 {
+  position: absolute;
+  right: 0; }
+
+.a-embargo .card {
+  border: none;
+  float: right;
+  text-align: center;
+  margin-top: 6rem; }
+  .a-embargo .card img {
+    margin: 0 auto;
+    width: 90px;
+    height: 75px; }
+  .a-embargo .card .card-title {
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.11;
+    letter-spacing: normal;
+    color: #000000; }
+
+.a-contact {
+  position: relative;
+  background-image: url(../img/line-arabian.png);
+  background-repeat: no-repeat;
+  background-size: inherit;
+  background-position: left center;
+  height: 255px;
+  margin-top: 4rem; }
+  .a-contact h2 {
+    direction: rtl; }
+  .a-contact .card {
+    border: none;
+    margin-top: 8rem; }
+    .a-contact .card .card-title {
+      text-align: right; }
+    .a-contact .card .card-description {
+      font-size: 20px;
+      color: #67645e;
+      text-align: right; }
+
+.a-contact h2 {
+  left: 72%;
+  position: relative;
+  width: 50%; }
+
+.a-items {
+  margin-top: 4rem;
+  direction: rtl; }
+  .a-items .a-first-item {
+    background-image: url(../img/line-arabian.png);
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: left center;
+    height: 255px;
+    margin-right: 2rem; }
+    .a-items .a-first-item h2 {
+      text-align: right;
+      background-color: #fff;
+      font-size: 32px;
+      width: 90%;
+      font-weight: bold; }
+    .a-items .a-first-item p {
+      text-align: right; }
+
+.a-formats ul li {
+  margin-right: 15px; }
+
+.a-formats h4 {
+  text-align: right; }
+
+.a-formats .logo-text {
+  direction: rtl;
+  text-align: right;
+  font-size: 32px;
+  letter-spacing: 1.9px;
+  font-weight: bold; }
+
+.a-videos {
+  direction: rtl;
+  text-align: right; }
+
+.a-formats img {
+  float: right; }
+
+.a-scroll-section h2 {
+  direction: rtl;
+  text-align: right; }
+
+.a-scroll-section h3 {
+  direction: rtl;
+  text-align: right; }
+
+.a-scroll-section .scroll-area {
+  direction: rtl; }
+
+.a-scroll-section .scroll-area::-webkit-scrollbar {
+  width: 0; }
+
 footer {
   background-color: #000;
   padding: 25px 0;
